@@ -1,12 +1,5 @@
 // 앱 목록을 정의하는 정적 데이터
 export const apps = [
-//   {
-//     id: 'bnote-pro',
-//     name: 'bnote-pro',
-//     description: 'BIM 기반 팀표준 관리 도구',
-//     icon: '📘',
-//     link: 'http://10.177.144.74:3003',
-//   },
   {
     id: 'wind-load',
     name: '풍하중 산정기',
